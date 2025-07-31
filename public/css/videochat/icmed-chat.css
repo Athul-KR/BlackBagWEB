@@ -1,0 +1,413 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #343a40;
+    overflow: hidden;
+}
+
+.right-pane {
+    max-width: 300px;
+    background-color: #fff;
+    position: fixed;
+    right: -100%;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    transition: all ease .6s;
+}
+
+.right-pane.active {
+    right: 0;
+    transition: all ease .6s;
+}
+
+.toggle-hide {
+    opacity: 0;
+    transition: all ease .6s;
+}
+
+.toggle-fixed-btn {
+    text-align: center;
+    line-height: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    float: left;
+    color: #999;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    right: 0;
+    transition: all ease .6s;
+}
+
+.top-bar {
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.toggle-btn {
+    text-align: center;
+    line-height: 40px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    float: left;
+    color: #999;
+}
+
+.add-person-btn {
+    border-left: 1px solid #dfdfdf;
+    padding: 10px 20px;
+    display: block;
+    color: black;
+    width: calc(100% - 40px);
+    height: 40px;
+    float: left;
+    line-height: 20px;
+    font-size: 16px;
+    text-align: center;
+    transition: all ease .3s;
+}
+
+.add-person-btn:hover {
+    text-decoration: none;
+    color: #fff;
+    background-color: cornflowerblue;
+    transition: all ease .3s;
+}
+
+.participant-listing {
+    width: 100%;
+    height: calc(100% - 41px);
+    position: absolute;
+    left: 0;
+    top: 41px;
+    display: block;
+    overflow-y: scroll;
+}
+
+.person-pic {
+    width: 45px;
+    height: 45px;
+    display: block;
+    overflow: hidden;
+    border-radius: 50px;
+    float: left;
+}
+
+.person-pic img {
+    widows: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.person-list {
+    float: left;
+    width: calc(100% - 40px);
+}
+
+.person-list p {
+    font-size: 15px;
+    display: block;
+    margin-bottom: 0;
+    margin-top: 4px;
+}
+
+.person-list span {
+    font-size: 10px;
+    float: left;
+}
+
+.close-btn {
+    display: block;
+    width: 35px;
+    height: 35px;
+    float: right;
+    border: 1px solid #b6b6b6;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 35px;
+    color: #9b9b9b;
+    opacity: 0;
+    transform: translateX(20px);
+}
+
+.close-btn:hover {
+    background: #9b9b9b;
+    color: #fff;
+}
+
+.participant-block:hover .close-btn {
+    opacity: 1;
+    transition: all ease .3s;
+    transform: translateX(0px);
+}
+
+.calling-indicator {
+    width: 100%;
+    background-color: aliceblue;
+    text-align: center;
+    margin-top: 5px;
+    line-height: 12px;
+    padding: 4px;
+    color: #0aaef0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    text-align: center;
+    padding: 4px;
+    z-index: 9;
+    box-shadow: 0 -2px 20px rgba(0, 0, 0, 0.13);
+}
+
+.pre-footer {
+    position: fixed;
+    width: 120px;
+    bottom: 50px;
+    left: 20px;
+    text-align: center;
+    opacity: 0.7;
+    z-index: 10;
+}
+
+.pre-footer img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.pre-footer small {
+    color: #fff;
+    font-size: 10px;
+}
+
+.search-person-pic {
+    width: 45px;
+    height: 45px;
+    border-radius: 50px;
+    overflow: hidden;
+    position: relative;
+}
+
+.search-person-pic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.online-dot-holder {
+    position: relative;
+    display: inline-block;
+    float: left;
+}
+
+.online-dot-holder .online-dot {
+    width: 12px;
+    height: 12px;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    background: rgb(87, 228, 87);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.search-person-list li {
+    padding: 12px 0;
+}
+
+.search-person-list-left {
+    float: left;
+}
+
+.search-person-name {
+    float: left;
+}
+
+.search-person-list-right {
+    float: right;
+}
+
+.search-person-list-left p {
+    font-size: 17px;
+    margin-bottom: 0;
+}
+
+.search-person-list-left span {
+    font-size: 12px;
+    margin-bottom: 0;
+}
+
+.selected-person-box {
+    float: left;
+    display: block;
+    /* margin: 0 10px 10px 0; */
+    width: 80px;
+    height: 80px;
+    padding: 0 10px;
+    position: relative;
+    text-align: center;
+}
+
+.selected-person-box small {
+    width: 100%;
+    height: 100%;
+    display: block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.remove-person {
+    display: block;
+    width: 35px;
+    height: 35px;
+    border: 1px solid #f54242;
+    background-color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 35px;
+    color: #f54242 !important;
+    opacity: 0;
+    transform: translateY(20px) translateX(-50%);
+    position: absolute;
+    left: 50%;
+    top: 10px;
+    margin: auto;
+    transition: all ease .3s;
+}
+
+.selected-person-box:hover .remove-person {
+    transform: translateY(0px) translateX(-50%);
+    opacity: 1;
+    transition: all ease .3s;
+}
+
+.selected-person-pic {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.selected-person-pic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.fixed-add-btn {
+    background: #0aaef0;
+    border: 1px solid #0aaef0;
+    color: #fff;
+    padding: 4px 16px;
+    border-radius: 50px;
+    position: absolute;
+    right: 50px;
+    top: 12px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.fixed-add-btn:hover {
+    background: #fff;
+    color: #0aaef0;
+    text-decoration: none;
+}
+
+/* Base for label styling */
+.checkbox-round [type="checkbox"]:not(:checked),
+.checkbox-round [type="checkbox"]:checked {
+    position: absolute;
+    left: -9999px;
+}
+
+.checkbox-round [type="checkbox"]:not(:checked)+label,
+.checkbox-round [type="checkbox"]:checked+label {
+    position: relative;
+    padding-left: 1.95em;
+    cursor: pointer;
+}
+
+/* checkbox aspect */
+.checkbox-round [type="checkbox"]:not(:checked)+label:before,
+.checkbox-round [type="checkbox"]:checked+label:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1.8em;
+    height: 1.8em;
+    border: 2px solid #ccc;
+    background: #fff;
+    border-radius: 50px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, .1);
+}
+
+.checkbox-round [type="checkbox"]:checked+label:before {
+    background-color: #0aaef0;
+    border-color: #0aaef0;
+}
+
+/* checked mark aspect */
+.checkbox-round [type="checkbox"]:not(:checked)+label:after,
+.checkbox-round [type="checkbox"]:checked+label:after {
+    content: '\2713\0020';
+    position: absolute;
+    top: .3em;
+    left: .28em;
+    font-size: 1.3em;
+    line-height: 0.8;
+    color: #fff;
+    transition: all .2s;
+    font-family: 'Lucida Sans Unicode', 'Arial Unicode MS', Arial;
+}
+
+/* checked mark aspect changes */
+.checkbox-round [type="checkbox"]:not(:checked)+label:after {
+    opacity: 0;
+    transform: scale(0);
+}
+
+.checkbox-round [type="checkbox"]:checked+label:after {
+    opacity: 1;
+    transform: scale(1);
+}
+
+/* disabled checkbox */
+.checkbox-round [type="checkbox"]:disabled:not(:checked)+label:before,
+.checkbox-round [type="checkbox"]:disabled:checked+label:before {
+    box-shadow: none;
+    border-color: #bbb;
+    background-color: #ddd;
+}
+
+.checkbox-round [type="checkbox"]:disabled:checked+label:after {
+    color: #999;
+}
+
+.checkbox-round [type="checkbox"]:disabled+label {
+    color: #aaa;
+}
+
+/* accessibility */
+.checkbox-round [type="checkbox"]:checked:focus+label:before,
+.checkbox-round [type="checkbox"]:not(:checked):focus+label:before {
+    border: 2px solid #0aaef0;
+}
+
+/* hover style just for information */
+.checkbox-round label:hover:before {
+    border: 2px solid #0aaef0 !important;
+}

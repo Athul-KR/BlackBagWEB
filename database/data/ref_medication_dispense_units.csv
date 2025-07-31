@@ -1,0 +1,41 @@
+id,form,quantity
+1,Tablet,tablets
+2,Capsule,capsules
+3,Drops,mLs
+4,Inhaler,puffs
+5,Syrup,mLs
+6,Bar,bars
+7,Concentrate,mLs
+8,Cream,grams
+9,Elixir,mLs
+10,Enema,mLs
+11,Film,films
+12,Foam,mLs
+13,Gel,grams
+14,Gel Forming Solution,mLs
+15,Gel With Applicator,applicators
+16,Granule,grams
+17,Gum,pieces
+18,Injection,injections
+19,Kit,kits
+20,Liquid,mLs
+21,Lotion,mLs
+22,Lozenge,lozenges
+23,Ointment,grams
+24,Pad,pads
+25,Paste,grams
+26,Patch,patches
+27,Powder,grams
+28,Powder for Injection,grams
+29,Ring,ring
+30,Shampoo,mLs
+31,Sponge,sponges
+32,Spray,sprays
+33,Stick,sticks
+34,Strip,strips
+35,Suppository,suppositories
+36,Swab,swabs
+39,Wafer,wafers
+37,Tape,inches
+38,Tincture,mLs
+40,Troche,troches

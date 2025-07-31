@@ -1,0 +1,1187 @@
+"id","condition_uuid","condition","created_at","updated_at","deleted_at"
+"1","f148e32a29","Alcoholism","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"2","6f757e4d7f","Anemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"3","3e1c58f16e","Anesthesia Problem","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"4","f6f690738c","Arthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"5","3ca095272c","Asthma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"6","5ed909ab02","Birth Defects","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"7","e1f5a7c12a","Bleeding Problem","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"8","e05fd2ce10","Cancer, Breast","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"9","baec1769aa","Cancer, Colon","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"10","3c08b6ab82","Cancer, Melanoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"11","1677283c6f","Cancer, Skin","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"12","9fe9274d61","Cancer, Ovary","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"13","837dcd4736","Cancer, Prostate","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"14","7d2fbf1130","Cancer, Other","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"15","4a59ae5834","Diabetes (Childhood)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"16","84e269d860","Diabetes (Adult onset)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"17","637bbfb2ce","Eczema","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"18","9b383ee796","Epilepsy (Seizures) ","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"19","c64c803799","Genetic Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"20","21d12c7a0c","Glaucoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"21","17c5887297","Hay Fever (Allergic)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"22","6d92e311af","Hearing Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"23","9b773d8115","Heart Attack","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"24","331bb72dba","High Blood Pressure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"25","dd3c5defe0","High Cholesterol","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"26","633b801931","Kidney Diseases - Chronic Renal Failure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"27","c258d3d04e","Lupus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"28","e81c1e51d8","Mental Retardation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"29","09632182ee","Migraine Headaches","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"30","48d918756b","Mitral Valve Prolapse","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"31","a01a00e0f5","Osteoarthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"32","235131e732","Osteoporosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"33","fe9837f729","Rheumatoid Arthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"34","3cfa823ee2","Stroke","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"35","ed37780ef4","Thyroid Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"36","dcf3416f79","Tuberculosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"39","clku990op9","Cancer, Lung","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"40","ccf4ervb5y","Cancer, Cervical","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"41","dmtz66757u","Dementia / Alzheimer's","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"42","g7i9f6r28m","Gait Instability Fall Risk","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"43","dpocdl689n","Lung Disorder (COPD)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"44","ibs3sbi3lo","Irritable Bowel Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"45","cdzshnv78u","Crohn's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"46","pdpd00oplm","Parkinson's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"47","smft56yju3","Multiple Sclerosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"48","lddlozsxcm","Learning Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"49","pdftr45bgn","Physical Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"50","deplki8890","Depression","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"51","axeqwb562g","Anxiety","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"52","cbbdkiolpm","Cancer, Bladder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"53","ced4thy7uk","Cancer, Endometrial","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"54","lopkmcnv77","Cancer, Kidney","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"55","clkiddng67","Cancer, Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"56","mklpojiunv","Cancer, Non-Hodgkin Lymphoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"57","pcddd09iza","Cancer, Pancreatic","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"58","thycasdert","Cancer, Thyroid","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"59","psdfrntt90","Phace Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"61","pddoas2e68","Pervasive Devel d/o - Asbergers","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"62","ud2du4slzz","Kidney Diseases - Urinary Incontenence","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"63","dp09ialzis","Kidney Diseases - Dialysis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"64","slllkmxxd9","Kidney Diseases - Sexual Dysfunction","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"65","autzmc8765","Autism","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"66","09876tygcr","Bipolar d/o Schizophrenia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"67","de0912zxqw","Pre-Dementia / Mild Cognitive Impairment","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"68","3c1a3c1a09","Cateracts","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"69","5macdeol01","Macular Degen","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"70","plknhyu876","HRT / Contraception","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"71","290ossdjmz","Sexually Active","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"72","in23loxxsq","Infertility","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"73","89bvczds24","Down's Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"74","cystfibz0p","Cystic Fibrosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"75","06muszapxx","Muscular Dystrophy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"76","2olcdfghy6","Color Blindness","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"77","42hllhxxer","Hearing Loss","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"78","ee839b0fe9","Abdominal Pain","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"79","cdfc9e6ae0","Abdominal Pregnancy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"80","70b79076e3","Abortion","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"81","4bc98eece4","Abscess","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"82","50d07a11e0","Acid Reflux (GERD)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"83","41c51f8cfc","Acne","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"84","3ea3d15ba9","Acne Rosacea","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"85","4b81f2fdda","Acoustic Neuroma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"86","abfb271bd8","Acupuncture","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"87","4f9d96c461","Acute Bronchitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"88","bbb0c1237d","Acute Lymphoblastic Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"89","ec42211dff","Acute Myeloblastic Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"90","03aeead786","Acute Pancreatitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"91","b53f68a633","Acute Respiratory Distress Syndrome (ARDS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"92","f3cdb74701","Addison Disease (Adrenal Insufficiency)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"93","d5534af819","Adenoidectomy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"94","e556c3f4d8","Adenoma (Benign Tumors)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"95","8b5e65b08b","Adhesions","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"96","0ef4bb9b98","Adrenal Gland Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"97","34e25e7fc0","Adrenal Gland Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"98","d9116c210a","Agoraphobia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"99","0bd994a7bb","AIDS (HIV/AIDS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"100","d3448898f6","Alcoholism/Alcohol Abuse","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"101","650bfdf2a7","Allergic Bronchpulmonary Aspergillosis (ABPA)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"102","fc209c31f4","Allergic Rhinitis (Allergy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"103","2c731d3075","Alpha-1 Antitrypsin Deficiency","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"104","8cb6fd4eb1","Alzheimer's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"105","79b012c0ec","Amblyopia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"106","b7cdd02ae7","Amenorrhea","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"107","daa035d059","Amnesia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"108","930546d753","Amputation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"109","2fcb580a24","Amyloidosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"110","eb46cb8e71","Amyotrophic Lateral Sclerosis (ALS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"111","4f5cd1f8c4","Anal Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"112","1608399f46","Anal Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"113","9010118c56","Anemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"114","c4bc6228a3","Anemia Thalassemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"115","455d05c9f2","Anencephaly (Neural Tube Defects)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"116","4b5962a62c","Aneurysms","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"117","1e75bb7f73","Angina","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"118","a2f7ddc8d6","Ankle Injuries and Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"119","698d34b923","Ankylosing Spondylitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"120","e7610bd24d","Anorexia Nervosa (Eating Disorder)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"121","07cd942843","Anosmia (Taste and Smell Disorder)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"122","283a05395f","Anterior Cruciate Ligament Injury (Knee Injury)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"123","2178f4cae0","Aortic Aneurysm","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"124","bacbdcfba4","Aortic Stenosis (Heart Valve Diseases)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"125","b4c99291f9","Aphasia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"126","772182429d","Aplastic Anemia (Fanconi Anemia)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"127","ec018b6878","Appendicitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"128","2fd5dca086","ARDS (Respiratory Failure)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"129","3718bdafaa","Arm Injury","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"130","4ab8acf9a2","Arnold-Chiari Malformation (Chiari Malformation)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"131","be1c675bd9","Arteriosclerosis (Atherosclerosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"132","e705a243df","Arteriovenous Malformations","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"133","f5e3bf84e4","Arthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"134","749df3d111","Aseptic Meningitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"135","6ad0fd8cb9","Asperger Syndrome (Autism Spectrum Disorder)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"136","4642eb9a23","Aspergillosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"137","9435f27779","Asthma (in Child)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"138","a9a9784c07","Asthma (Bronchial Asthma)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"139","a3212fa1fa","Astigmatism","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"140","ae3cb3d803","Ataxia (Balance/movement problems)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"141","d6fe3a3bc5","Ataxia Telangiectasia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"142","c96611eb49","Atherosclerosis (Artery plaque buildup)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"143","38da2c4567","Athlete's Foot","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"144","80ca64cb25","Atrial Fibrillation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"145","ee46984d41","Atrophic Vaginitis (Vaginal Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"146","f24b02ebde","Attention Deficit Hyperactivity Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"147","067a4823ff","Auditory Tumor (Acoustic Neuroma)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"148","e50d132e5b","Autism","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"149","7a4b6aaff9","Autoimmune Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"150","0f4c9b1f0b","Autoinflammatory Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"151","839d73d15f","Autonomic Nervous System Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"152","d9952f7507","Avian Influenza (Bird Flu )","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"153","92fe3266c7","AVM (Arteriovenous Malformation)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"154","dc182bfb53","Back Pain","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"155","e4c63ebfb8","Bacterial (Haemophilus) Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"156","b6187a94ee","Bacterial Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"157","a65231a898","Bacterial Vaginosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"158","5381ba9614","Bad Breath","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"159","55d6411009","Baker's Cyst (Knee Injuries)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"160","981f46f270","Balance Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"161","55bc558076","Balance/fall problem","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"162","a0d2933871","Balanitis (Penis Disorders )","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"163","a535be42b6","Bariatric Surgery (Weight Loss Surgery)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"164","a0f297c2d0","Barotrauma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"165","d530e0f1b1","Barrett's Esophagus Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"166","2243df06f2","Basal Cell Carcinoma (Skin Cancer)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"167","ab43dd3bbb","Bedbugs","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"168","6910e13cf8","Bedsores (Pressure Sores)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"169","c4e1a1ffae","Bedwetting","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"170","336470ff14","Bee Sting","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"171","5bc89c7772","Behcet's Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"172","3c33183b9f","Belching (Gas)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"173","93abd693b4","Bell's Palsy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"174","293b9bd175","Benign Prostatic Hypertrophy (Enlarged Prostate (BPH))","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"175","c140bc84be","Benign Tumors","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"176","a68db0e67b","Bereavement","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"177","668bc98609","Bile Duct Cancer (Cholangiocarcinoma)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"178","aa231baac8","Bile Duct Diseases (Cholangitis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"179","8b2569f106","Biliary Cirrhosis (Bile Duct Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"180","e59f35cef1","Biliary Tract Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"181","e6c489c543","Binge Drinking (Alcohol Abuse)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"182","86aa543ccc","Bipolar Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"183","f8b4f30ac4","Bird Flu","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"184","bf30f796ea","Birth Control","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"185","4fb8cd2dc9","Birth Defects","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"186","4c3272a0b8","Birth Injuries (Childbirth Problems)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"187","9feab317a2","Birthmark","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"188","a7ad2dabb5","Bladder Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"189","e6ad1c64f1","Bladder Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"190","8d3a68ce06","Bladder Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"191","75145f4394","Bleeding","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"192","bb655897ca","Bleeding Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"193","b174aec966","Bleeding Stroke (Cerebral Hemorrhage)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"194","d7fe74d1d4","Blepharospasm (Eyelid Disorders)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"195","3fc083127a","Blindness","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"196","7e2656b467","Blood Clots","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"197","66f3c712f1","Blood Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"198","8e3f919729","Blood Platelet Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"199","96909e89fb","Blood Poisoning see Sepsis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"200","b08935ab9c","Blood vessel (Vascular) Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"201","4e038067fc","Body Lice","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"202","6cfc71169c","Bone Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"203","a60eb28779","Bone Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"204","d7bedc2877","Bone Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"205","bfce1c3a22","Bone Marrow Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"206","7021676c91","Botanicals see Herbal Medicine","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"207","0bbe7803ef","Botox","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"208","2f62027625","Botulinum Toxin","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"209","9bbe87b6a3","Botulism","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"210","782e8e4dae","Bowel Incontinence","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"211","7129f1861c","Bowel Movement problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"212","700041d4d2","Bowel Obstruction (constipation)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"213","e099c3dc61","BPH (Enlarged Prostate (BPH))","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"214","989634ccec","Braces (Orthodontia)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"215","e830904c13","Brachial Plexus Injury","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"216","13eb6242a0","Brain Aneurysm","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"217","3ec2b8994b","Brain Blood Clot (Stroke)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"218","3fd8c60ae7","Brain Cancer/Brain Tumors","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"219","d612a6aff0","Brain Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"220","25433d6d5b","Brain Hemorrhage (Bleeding Stroke)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"221","86dc6f9516","Brain Malformation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"222","189a0219ac","Brain Tumor","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"223","fa55bad5b4","Breast Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"224","f4c24be5be","Breast Cancer, Male","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"225","c33b83fddf","Breast Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"226","d5c40d5934","Breast Diseases (Non Cancerous)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"227","80421bec44","Breast Implants (Breast Reconstruction)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"228","8c265e06c2","Breast Reconstruction","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"229","5090989483","Breast Reduction Surgery","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"230","82ababbbf1","Breastfeeding","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"231","22a78ef569","Breathing Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"232","1708b60455","Broken Bone (Fracture)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"233","a2dc548d77","Bronchial Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"234","ef2fe44371","Bronchiectasis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"235","7c34c95a8c","Bronchiolitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"236","a94f477290","Bruise (Hematoma)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"237","e41834799e","Bruise easily","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"238","7a1fbe90e9","Bruxism (Teeth Grinding)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"239","f33d3cdd99","Bubonic Plague infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"240","3f2104d0a2","Bunion (Toe inflammatory Disorder)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"241","98c65d3c19","Burns","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"242","43c7418d4b","Bursitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"243","2f1e6ea0ea","C-Section (Cesarean Section)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"244","f79ad310b1","C. diff. Infection (Clostridium Difficile Infection)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"245","56abadd29d","Campylobacter Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"246","88c18c516f","Canavan Disease (Leukodystrophies)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"247","0293738c9d","Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"248","f4ddb02907","Canker Sores","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"249","abc7e2f81d","Cannabis Abuse (Marijuana)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"250","341550ea17","Carcinoid Tumors","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"251","cd696bee47","Carcinoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"252","dd1adb11c3","Cardiomyopathy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"253","8195ed1179","Carotid Artery Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"254","1ceee4d131","Carotid Endarterectomy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"255","a6ab68022e","Carpal Tunnel Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"256","7de3517d5d","Cartilage Disorder (Costochondriti)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"257","6f98a900d2","Cat Scratch Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"258","6d54e090ea","Cataract","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"259","fb7f400c0e","Cavities (Tooth Decay)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"260","f4ad44c82f","Celiac Disease/Nontropical Sprue","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"261","85149251","Cellulitis - skin infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"262","2bd3bf17ba","Cerebellar Degeneration","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"263","195eee71ee","Cerebellar Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"264","5b996fe529","Cerebral Palsy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"265","ace58af77a","Cervical Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"266","a9717f4384","Cervical Dysplasia (Cervix Disorders)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"267","82600bf29d","Cervix Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"268","05e0537baa","Cesarean Section","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"269","18ee6d7844","Chagas Disease (South American Trypanosomiasis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"270","c818b956c7","Charcot-Marie-Tooth Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"271","cc3fedd128","Chest Pain","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"272","8c10db17ff","Chewing Tobacco","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"273","b9783051ee","Chiari Malformation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"274","64f51d805f","Chickenpox","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"275","ee7ac33c3b","Chickenpox (Varicella-Zoster Virus)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"276","7cff6ddf77","Chikungunya","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"277","1af6682cc7","Child and Teen Mental Health","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"278","c497d1d6cd","Childbirth","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"279","53b841e5f3","Childbirth Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"280","35efb11c9a","Chlamydia Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"281","9f2b591fb9","Cholera","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"282","9293787a27","Chorea Movement Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"283","6379061798","Chronic Bronchitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"284","dd6674771a","Chronic Fatigue Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"285","0480d0a161","Chronic Granulocytic Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"286","4d16f61a53","Chronic Granulomatous Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"287","08d3574a0e","Chronic Kidney Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"288","3e76ef542a","Chronic Lymphocytic Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"289","7f7bc34828","Chronic Myeloid Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"290","4f8867af79","Chronic Obstructive Pulmonary Disease (COPD)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"291","86f8bbf21c","Chronic Pain","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"292","6114fc50f3","Chronic Pancreatitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"293","ae540d2d40","Churg-Strauss Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"294","cef7334d81","Circumcision","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"295","6a83827a90","Cirrhosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"296","6e2c2772f5","Claudication","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"297","3667c3c55e","Clavicle Injury","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"298","b070059280","Cleft Lip","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"299","41d56d8266","Cleft Palate","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"300","826cc554b4","Clostridium Difficile Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"301","a933e685f4","Cluster Headache","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"302","f9690de7ac","Coccidioidomycosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"303","630f8b8db1","Coccyx (Tailbone) Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"304","2d3a377cc4","Cochlear Implants","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"305","4f569853cb","Cold Sore (Oral Herpes)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"306","37a445a62f","Cold Sores","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"307","b1517fbbe5","Colic","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"308","516a25829c","Collapsed Lung (Atelectasis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"309","82afcf2f5c","Colon Cancer (Colorectal Cancer)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"310","afa0d84229","Colonic Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"311","95e734d293","Colonic Polyps","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"312","defc325855","Colorado Tick Fever","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"313","1f8a79163a","Colorectal Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"314","b12d4e3dbe","Colostomy (Ostomy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"315","608657669e","Common Cold","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"316","0c95f8c07f","Complex Regional Pain Syndrome (Causalgia)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"317","010bf591c7","Complicated Grief","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"318","d1c721e6de","Compression Fracture (Spine Injury) Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"319","f37baa0c1b","Compulsive Gambling disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"320","9e42c85ffa","Conduct Disorder (Child Behavior Disorders)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"321","ad2bc27bff","Congenital Adrenal Hyperplasia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"322","94db29d7fa","Congenital Diaphragmatic Hernia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"323","e32a4f38a7","Congenital Heart Defect","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"324","748d144eff","Congestive Heart Failure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"325","3e98e2fe19","Connective Tissue Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"326","564d7e7ef7","Constipation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"327","4474577dad","Constipation (Intestinal Obstruction)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"328","7db5341b30","Contact Dermatitis (Rashes)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"329","6222755649","Contusions/Bruises","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"330","1b38c7f62e","COPD","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"331","b11433c89a","Coronary Artery Bypass Graft (CABG)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"332","10cbf3f223","Coronary Artery Bypass Surgery","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"333","191e829de3","Coronary Artery Disease (CAD)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"334","06b37730e1","Coronavirus Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"335","a9818c0bd6","Coxsackievirus Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"336","1fdccdfdc8","Crabs/Lice (Sexually Transmitted Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"337","7c48d68f9a","Craniofacial Abnormalities","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"338","ef8a2aa010","Creutzfeldt-Jakob Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"339","eb9555d4c1","Crohn's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"340","d74da1b390","Crossed Eyes syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"341","d3425418c8","Cryptosporidiosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"342","966059dd5c","Cushing's Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"343","61a9ce27a2","Cyclothymic mood Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"344","8046c899b8","Cystic Fibrosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"345","b419f911e5","Cystic Kidney Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"346","679bc26ca2","Cytomegalovirus Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"347","41c26abbed","Dandy-Walker Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"348","9ce189fd28","Deafness/Hearing Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"349","f1f8a51781","Deep Vein Thrombosis (DVT)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"350","51b4b19fae","Degenerative Joint Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"351","187400f430","Degenerative Nerve Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"352","e3e842b7f6","Delayed emptying of Stomach","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"353","1de80ff6fb","Delirium","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"354","044813d666","Dementia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"355","41c188af5a","Dementia with Lewy Bodies (Lewy Body Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"356","85fdb5656e","Dengue (Break-bone Fever)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"357","05b2da2b0f","Dental Caries (Cavities)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"358","8f2a5df61f","Dental Implants","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"359","f0c3987fef","Dentures","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"360","1363ab5be1","Dermatomyositis (Myositis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"361","1fc9b06472","Developmental Disability Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"362","75982a3363","Diabetes","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"363","201acfc1f6","Diabetes Complications","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"364","a0e2031b36","Diabetes in Children and Teens","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"365","7145627eaa","Diabetes Insipidus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"366","d319da3610","Diabetes Type 2","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"367","3bfbca4734","Diabetic Eye Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"368","a8bc21e676","Diabetic Foot","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"369","49a52a613f","Diabetic Heart Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"370","a45ffc5127","Diabetic Nephropathy (Diabetic Kidney condition)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"371","c7f1cf1a02","Diabetic Nerve Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"372","dc8020a5da","Diabetic Retinopathy (Diabetic Eye condition)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"373","441676b976","Diaphragmatic Hernia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"374","2649e2bf1d","Diarrhea","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"375","f701962d67","Digestive condition","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"376","396c5225a7","Diphtheriainfection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"377","c2e93ca349","Dislocations","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"378","445c90ad10","Diverticulosis and Diverticulitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"379","7b5333e0ca","Dizziness (Vertigo)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"380","7a2abf2249","Down Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"381","750ab7b7c2","Drug Abuse Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"382","3fad79be2c","Dry Mouth","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"383","a82ad83d57","Dwarfism","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"384","07d3f4bb0e","Dysentery","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"385","f9d2f9445b","Dyskinesia (abnormal Movement) Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"386","75debf2d3c","Dyslexia Learning Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"387","f7124d12d2","Dysmenorrhea","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"388","13795b4a91","Dyspareunia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"389","b82824a053","Dyspepsia/acid stomach disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"390","7379afb08a","Dysphagia/Swallowing Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"391","0cedfd073f","Dyspnea see Breathing Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"392","3739cdf5db","Dystonia /muscle disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"393","fbc2126efe","Dysuria/Urination disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"394","35c0dc8e44","E. Coli Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"395","6fecf2dd73","Ear Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"396","c957840280","Ear Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"397","77f64aa1e4","Eating Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"398","2adb5f07c5","Ebola","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"399","960d218413","EBV Infection (Infectious Mononucleosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"400","d89d279ba7","Ectopic Pregnancy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"401","83f0f3b65d","Eczema","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"402","b9a76c08f2","Eczema (Atopic Dermatitis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"403","2c9edd7532","Edema","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"404","e545426526","Ehlers-Danlos Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"405","1c63e726ce","Elbow Injury","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"406","06ca3725e7","Elevated A1C","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"407","3997768042","Emotional Health","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"408","93a00120c0","Emphysema/Lung disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"409","bb80d32860","Encephalitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"410","22899cd1fe","Encopresis (Bowel Incontinence) condition","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"411","3d2e716c1d","End Stage Renal Disease (ESRD)/Kidney Failure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"412","a34078a3f1","End-Stage Renal Disease (Kidney Failure)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"413","9f0ac23163","Endocarditis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"414","6ef77e7621","Endocrine Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"415","5e8a679386","Endometrial Cancer/Uterine Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"416","3b9e8cc722","Endometriosis (Adenomyosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"417","c7e1e5b07d","Enlarged Prostate (BPH)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"418","6353860ea6","Enlarged Thyroid (Goiter)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"419","62a1bff88b","Enlarged Tonsils/Adenoids","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"420","e4029991a3","Enterovirus (Viral Infection)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"421","00d01a0a10","Enuresis/Bedwetting","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"422","8e0b5c705b","Environmental Health","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"423","37dc538a38","Eosinophilic Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"424","c399609d7d","Epilepsy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"425","9be1cb9852","Epstein-Barr Virus Infection (Infectious Mononucleosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"426","222ad372f1","Erectile Dysfunction","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"427","7633ada82a","Erythema Infectiosum (Fifth Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"428","8e6b56f407","Esophageal Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"429","59087cddef","Esophagus Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"430","696d6df4a9","Essential Tremor","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"431","a8a6fb97f8","Excessive Sweating","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"432","e92311d081","Eye Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"433","f3ea41ba20","Eye Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"434","72beab3f9c","Eye Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"435","aa2e450b6a","Eye Injuries","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"436","e0d9e695ac","Eye Movement Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"437","fa1e11f66e","Eyelid Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"438","83acfcbe66","Facial Injuries and Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"439","d79f04822c","Failure to Thrive (Growth) Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"440","a35892fa25","Fainting","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"441","635422a040","Falls","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"442","85ff63f8df","False Teeth/Dentures","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"443","2dc4e67b1e","Farsightedness","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"444","3518e3b44c","Fatigue","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"445","2cd12cccfd","Fatty Liver Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"446","128a7ab2e4","Female Infertility","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"447","90f1de84ae","Female Reproductive System","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"448","2372aa3c95","Fertility Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"449","b2ef9d9fc8","Fetal Alcohol Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"450","26797d07e6","Fetal Rh Incompatibility","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"451","9a4e6e70a2","Fibrocystic Breast Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"452","6a7e208c72","Fibromyalgia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"453","f857a34362","Fifth Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"454","ebde7781d1","Finger Injury/contracture Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"455","49bcc8917a","Fingernail Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"456","d796d32c40","Flatulence (Gas)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"457","2bc9f659a3","Food Allergy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"458","3b72c8c6ab","Foodborne Illness (eg Yersinia Enterocolitica)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"459","0baaf29ee5","Foot Injury/ Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"460","4be7ee6fe4","Fragile X Syndrome(FRAXA)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"461","f3b7186f68","Friedreich's Ataxia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"462","fadc777ba3","Frostbite","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"463","8bab435e96","Frozen Shoulder (see Shoulder Injury and Disorder)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"464","ac2be0c40c","Fungal Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"465","3c886d3e46","Fungal Infections(Cryptococcosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"466","b9a5260461","G6PD Deficiency","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"467","add59f6390","Gait/Balance disorder (Friedreich's Ataxia)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"468","2c5e72f9dd","Gallbladder Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"469","079c4cd512","Gallbladder Disease (Cholecystectomy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"470","f03c22d145","Gallstones (Choledocholithiasis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"471","b1cfc52e60","Gambling Problem","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"472","a2c7783115","Ganglion Cyst","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"473","78012416b2","Gangrene condition","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"474","65ba3e7fe2","Gastritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"475","15c0b642cd","Gastroenteritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"476","d6dab0c905","Gastroesophageal Reflux Disorder (GERD)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"477","40f02ff99e","Gastrointestinal Bleeding","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"478","2ed00a87d7","Gaucher Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"479","aa5c24082d","Genetic Brain Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"480","1ccd4718dd","Genital Herpes","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"481","673f1e46b1","Genital Warts (Condylomata Acuminata)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"482","d2e65cb5a3","Geographic Tongue","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"483","f7203df04d","GERD","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"484","a5d6e4c501","German Measles","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"485","97a51aa5a5","Gestational Diabetes (Diabetes during Pregnancy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"486","433bf42988","Gestational Hypertension (High Blood Pressure in Pregnancy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"487","dddda50410","Gestational Trophoblastic Disease (Tumors in Pregnancy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"488","2f8315e104","GI Bleeding","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"489","18209c098e","Giardia Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"490","9f34ad748f","Gilbert Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"491","746bad3697","Glaucoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"492","502af786b0","Glucose-6-phosphate Dehydrogenase (G6PD) Deficiency","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"493","ebe9a30156","Gluten Intolerance (Celiac Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"494","8a84da7095","Gluten Sensitivity","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"495","51ce2ad566","Gonorrhea","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"496","9804919ab8","Gout (Chondrocalcinosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"497","2a98da74f9","Graves' Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"498","03d2d5fa37","Grippe condition","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"499","2443244128","Growth Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"500","6ecb1e8ad2","Guillain-Barre Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"501","7617b98d5a","Gum Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"502","66c54a776a","Gynecomastia (enlarged breasts)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"503","9fdfb089b5","H. Pylori Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"504","e9a518785b","H1N1 Flu (Swine Flu)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"505","b80986d5c2","Hair Loss (Alopecia)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"506","62dd7f18d6","Hair Problems(Folliculitis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"507","e36ecf43a2","Hair Pulling","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"508","aaf3c02651","Hammer Toe","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"509","82eeb97d44","Hand Injury or Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"510","2dbd43f405","Hand","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"511","2c2e741e58","Hansen's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"512","4b9911a1d8","Hantavirus Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"513","8fad3dc330","Hardening of the Arteries (Atherosclerosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"514","33681273da","Hashimoto's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"515","d31b7e169a","Hay Fever","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"516","7d8ab0de7a","Head and Neck Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"517","8a08a1f39d","Head Concussion","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"518","c24d514a56","Head Injury","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"519","192bdc5798","Head Lice","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"520","46b248873d","Head/Brain Injury (Concussion)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"521","6831cd0c9b","Headache","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"522","c64bc7a999","Heal Injury (Achilles Tendon Disorders)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"523","286feb5944","Hearing Disorder or Deafness","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"524","a729c07bc0","Hearing Problems in Children","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"525","46b5d9d481","Heart Arrhythmia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"526","4cbb00281b","Heart Attack","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"527","4eeb24df9c","Heart Attack (Cardiac Arrest)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"528","428542c3e2","Heart Disease (Cardiac Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"529","a2a71d0ea1","Heart Disease (Coronary Artery Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"530","d9e724cd6b","Heart Failure (Cardiac Failure)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"531","573a90d94a","Heart Failure (CHF)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"532","56164ac10f","Heart Murmur","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"533","f9a24768c1","Heart problem/defect (congenital or since birth)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"534","4776a4926e","Heart Valve Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"535","4f6dc59cb5","Heartburn","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"536","dd5c3cd7ca","Heel Injury/Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"537","443c6acb5e","Hemangioma (Benign Tumor)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"538","a4e8198699","Hemiplegia (Paralysis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"539","41ce0ed99d","Hemochromatosis (Iron Overload Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"540","7724474765","Hemophilia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"541","aa5b21c88d","Hemorrhagic Fevers","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"542","fc38b0aa93","Hemorrhoids","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"543","e3ffec4069","Hernia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"544","2ad6eff089","Hernia of abdomen","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"545","b3fbafd164","Herniated Disk","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"546","2326dc15b6","Herpes Simplex","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"547","bae8671018","Hiatal Hernia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"548","9e7ec1f3dc","Hiccups","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"549","e8123a5864","Hidradenitis Suppurativa","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"550","55bab6e216","High Blood Pressure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"551","43518bd935","High Blood Pressure in Pregnancy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"552","b8c5f847a1","Hip Injury/Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"553","ca794a6390","Hip Replacement (Arthroplasty)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"554","2cdfa0f7d1","Histoplasmosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"555","102fbdf322","HIV/AIDS (Acquired Immunodeficiency Syndrome)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"556","10faba0950","Hives","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"557","04010fb3f5","Hodgkin Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"558","0c3531fc15","Human Immunodeficiency Virus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"559","9ac7d4a00e","Human Papillomavirus (HPV)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"560","64e827ef89","Huntington's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"561","e7f01bea80","Hydrocephalus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"562","a6566ed8c0","Hyper-eosinophilic Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"563","14d8d0cff7","Hypercholesterolemia (High Cholesterol)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"564","3a2bb6f94a","Hyperparathyroidism Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"565","88123cb15a","Hypertension (High Blood Pressure)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"566","b081281449","Hyperthyroidism (Basedow's Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"567","0c506e8592","Hypertriglyceridemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"568","87d32dd7ad","Hypoparathyroidism","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"569","9815e56cfb","Hypotension","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"570","3b73775341","Hypothyroidism","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"571","622b30b60b","Hysterectomy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"572","85794a1075","Impetigo","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"573","d9db080475","Infectious Mononucleosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"574","58d04a59f9","Infertility","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"575","736f5f6fbb","Infertility","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"576","b66a5d7935","Infertility","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"577","58f1bf5b4b","Inflammatory Bowel Disease (Crohn's Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"578","770b54ca1f","Ingrown Nail","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"579","2cd044f3e7","Inguinal Hernia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"580","526fecb8b2","Insomnia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"581","183f614915","Insulin-Dependent Diabetes Mellitus (Diabetes Type 1)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"582","7052c73adc","Intermittent Claudication","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"583","1979be60fb","Interstitial Cystitis (Painful Bladder Syndrome)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"584","5b32ac166d","Interstitial Lung Diseases(Farmer's Lung)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"585","cd336e276d","Intestinal Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"586","6c4ddf047f","Intestinal Obstruction (Intussusception)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"587","81acfaef28","Iron Deficiency Anemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"588","276ebb639f","Irregular Heartbeat (Arrhythmia)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"589","114016886e","Irritable Bowel Syndrome (IBS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"590","9fda6f7412","Ischemic Stroke","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"591","14d967de81","Jaundice","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"592","afb96d2fd7","Jaw Injuries/Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"593","3aeb15aed9","Jaw/Mandibular Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"594","3392df34a1","Jaw/Maxillary Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"595","cedac5a3e3","Jock Itch","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"596","a10780125b","Joint Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"597","57b61908cf","Juvenile Diabetes (Diabetes Type 1)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"598","a94daed685","Juvenile Rheumatoid Arthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"599","ca70a4f73f","Kaposi's Sarcoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"600","7ba13c4ce7","Kawasaki Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"601","77d7923cf3","Keloids","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"602","ea64daf021","Kidney (Renal) Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"603","dff7eb7ac9","Kidney Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"604","17f2e0b2bc","Kidney Cysts","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"605","4adca4f2b5","Kidney Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"606","67028943b8","Kidney Failure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"607","91efd7949a","Kidney Infection/Nephritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"608","51bc894afb","Kidney Stones (Nephrolithiasis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"609","4cc5815c10","Kidney Transplantation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"610","285f5105e0","Klinefelter's Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"611","d617c9e78a","Knee Injury (ACL Injury)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"612","a7dbb51538","Knee Injury (Chondromalacia Patellae)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"613","3b0a976e01","Knee Injury/Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"614","f137eb1214","Knee Replacement","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"615","c0b077301a","Kyphosis of Spine","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"616","b566bcb654","Language Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"617","a9b179f740","Large for Birth Weight","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"618","5e3f3805e6","Large Scars","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"619","42012ead5d","Laryngitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"620","bd4ad92b21","Lassa Fever","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"621","e149e20df3","Latex Allergy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"622","b39e540c34","Lead Poisoning","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"623","ae7f609ae1","Learning Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"624","bf8e9cc811","Learning Disorder (Dyscalculia see )","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"625","1a2a9f0def","Leg Injuries and Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"626","ad2c1c4ae1","Legg-Calve-Perthes Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"627","39a1732917","Legionnaires' Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"628","65b2f8c8e9","Leishmaniasis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"629","3efe258666","Leprosy see Mycobacterial Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"630","09098f0679","Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"631","d306daabd1","""Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"632","ea91b31ed8","""Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"633","d174ceb4dd","""Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"634","164ed90c8b","""Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"635","3b8891e6d0","""Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"636","982f32cf3e","""Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"637","3a10c76c42","""Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"638","1f3abce9b3","""Leukemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"639","86c246fcde","Leukodystrophies (Adrenoleukodystrophy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"640","a7c473b639","Lewy Body Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"641","d6277ee8c1","Lice","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"642","c0605df689","Ligament Injuries","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"643","8d48099b59","Limb Loss","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"644","4db7d7e1fd","Listeria Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"645","66fd116afc","Liver Cancer - Hepatoblastoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"646","f0eb5093dd","Liver Cancer - Hepatocellular Carcinoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"647","9f24f902ec","Liver Cirrhosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"648","c598fc889a","Liver Diseases (Alagille Syndrome)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"649","7f8e527d38","Liver Infection - Hepatitis A","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"650","2c103d52dd","Liver Infection - Hepatitis B","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"651","73834801ec","Liver Infection - Hepatitis C","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"652","e7fc8c77ab","Liver infection/inflammation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"653","0ad148de6d","Liver Spots/Skin Aging","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"654","b7aa1646fd","Liver Transplantation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"655","0ad323b6f9","Lockjaw/Tetanus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"656","835211e4ff","Lou Gehrig's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"657","6ae273ce72","Low Back Pain","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"658","2bc68ee7e7","Low Birth Weight baby","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"659","acf93d73ab","Low Blood Pressure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"660","15a159f3f2","Low Blood Sugar","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"661","d3e1fd5e35","Low Sperm Count/Male Infertility","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"662","fb7f6add24","Lumpectomy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"663","ed079bfdcc","Lung Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"664","93bbd2dc33","Lung Cancer (Bronchogenic Carcinoma)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"665","601cbac423","Lung Cancer/Non-Small Cell Lung Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"666","2af1f684cf","Lung Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"667","41a0732e36","Lupus (SLE)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"668","a8bb12dde8","Lyesteria Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"669","7d6fe89465","Lyme Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"670","d7fb7f7219","Lymph Node Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"671","50fcd9feca","Lymphatic Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"672","7023aedf06","Lymphatic Obstruction","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"673","a1b8d39f30","Lymphedema","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"674","d1d7d54c3b","Macular Degeneration","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"675","1d8f913c8d","Macular Degeneration (Age-Related Macular Degeneration)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"676","2b30dd3ee7","Mad Cow Disease/Creutzfeldt-Jakob Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"677","b3c53d990d","Malabsorption Syndromes","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"678","d3ee8b91cb","Malaria","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"679","e762b19051","Male Breast Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"680","ccf2dc7e4d","Male Genital Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"681","27ba4a2ff0","Male Menopause","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"682","2672da6f74","Malignant Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"683","699e84fdbf","Malnutrition syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"684","a040855e33","Mammaplasty/Breast Reconstruction","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"685","c04215b8ec","Mammography","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"686","a3a5485d74","Manic-Depressive Illness/Bipolar Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"687","97898ffa52","Maple Syrup Urine Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"688","5bb9eafacc","Marfan Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"689","3a597e8997","Mastectomy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"690","882e09dcfb","Measles","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"691","ef5406fc1c","Measles/Rubella","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"692","85a4b5ec76","Mediastinal Injury Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"693","f2ad1fcb27","Mediterranean Anemia/Thalassemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"694","30c3e40515","Melanoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"695","0a7ac98dfb","Memory","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"696","7ab1fa8d19","Meniere's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"697","76670d4fc9","Meningioma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"698","feed72d4af","Meningitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"699","ce8f5789ce","Meningococcal Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"700","cbf2215062","Meniscus/Knee Injury","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"701","10fd669916","Menopause","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"702","d2bd3c00d1","Menopause","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"703","d6b8cac3e5","Menstruation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"704","7853080d5c","Mental Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"705","0100224d5e","Merkel Cell Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"706","2c124682dd","MERS/Coronavirus Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"707","be003f862b","Mesothelioma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"708","3c428b4a63","Metabolic Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"709","1335d8404f","Metabolic Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"710","b7ccd45639","Methicillin Resistant Staphylococcus Aureus (MRSA)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"711","981c611fd4","Middle Eastern Respiratory Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"712","e455675349","Migraine Head Ache","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"713","5bfcf62c5d","Mild Cognitive Impairment (MCI)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"714","f252a7b262","Milk Allergy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"715","fe718caf6b","Milk Intolerance/Lactose Intolerance","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"716","7f918f9d4c","Miscarriage (premature loss of baby)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"717","2cb4d4a47d","Mitral Valve Prolapse","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"718","c40130e07a","Mixed Connective Tissue Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"719","61acc5355c","Molar Pregnancy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"720","cc8bdf3579","Moles","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"721","688f87d55a","Molluscum Contagiosum/Skin Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"722","e54c1c897c","Moniliasis/Yeast Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"723","61cd57414b","Monkeypox Virus Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"724","4119b631a2","Mono/Infectious Mononucleosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"725","abccbeb6c1","Mood Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"726","c7d75d63c3","Morphea/Scleroderma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"727","517fd97e01","Morton's Neuroma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"728","9870178e1a","Motion Sickness","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"729","f5a5b93e88","Mouth Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"730","e1a5e11da7","Mouth Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"731","8d4f39cbcb","Movement Disorder (other)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"732","65aefdfca5","Mucocutaneous Lymph Node Syndrome/Kawasaki Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"733","384205a729","Mucolipidoses","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"734","acdab1ae50","Mucopolysaccharidoses","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"735","4186fb950c","Multifocal Atrial Tachycardia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"736","89215a6db6","Multiple Endocrine Neoplasia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"737","aaba17e0ab","Multiple Myeloma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"738","8608c2556e","Multiple Sclerosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"739","7b704e7c36","Mumps","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"740","86dca1ea87","Muscle Cramps","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"741","20a947f4f3","Muscle Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"742","78ea646079","Muscle Strain/Sprain","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"743","6c56895fef","Muscular Dystrophy (Duchenne Muscular Dystrophy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"744","c5eb8e30b7","Myasthenia Gravis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"745","fd335ffd34","Mycobacterial Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"746","fd97c9bebf","Mycoses/Fungal Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"747","02a65c0eb8","Myelodysplastic Syndromes","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"748","697baab179","Myeloproliferative Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"749","6ad0a6820f","Myocardial Infarction/Heart Attack","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"750","4764f21d5f","Myopathy/Muscle Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"751","d749002321","Myositis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"752","357fab33cb","Narcolepsy/Sleep Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"753","23bbe09a22","Nasal Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"754","f67622c0c4","Nausea/Vomiting problem","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"755","d410045120","Nearsightedness","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"756","6bfb9ded24","Neck Injury Condition","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"757","d40cda9521","Neoplasm (Cancer)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"758","a366519789","Nervous System Disease (other)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"759","819ee1effd","Neural Tube Defect","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"760","7713eebc40","Neuroblastoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"761","bc8ea613b7","Neurodegenerative Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"762","027a8bc886","Neurofibromatosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"763","720053aa7f","Neurogenic Bladder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"764","c979793cd8","Nevus (Birthmark)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"765","bde7e5e2c2","Niemann-Pick Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"766","3c5516404c","Night Terrors/Sleep Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"767","e4348a3c66","Nocturnal Enuresis/Bedwetting","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"768","ebe5c6c6cf","Non-Hodgkin Lymphoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"769","d95ab9395a","Non-Insulin Dependent Diabetes Mellitus/Diabetes Type 2","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"770","e72c4218ed","Norovirus Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"771","29ad194e60","Norwalk Virus Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"772","a159dfd66b","Nose Injuries and Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"773","2e7cd6af14","Nosebleed","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"774","e2cdb2f817","Nut Allergy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"775","9630e45a6c","Nystagmus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"776","9bf9fe19c0","Obesity","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"777","c87a1e6278","Obesity in Children","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"778","3feb36cbb7","Obsessive-Compulsive Disorder (OCD)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"779","cace65f3fb","Onychomycosis (Nail Diseases)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"780","3c79826523","Open Heart Surgery","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"781","23cd5738b5","Opiate Drug Abuse","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"782","20182ba3de","Oral Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"783","7a6b0aa05e","Osteoarthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"784","0ddb4aceb6","Osteogenesis Imperfecta","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"785","51900de6d7","Osteonecrosis (Avascular Necrosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"786","4d02711448","Osteopenia (Low Bone Density)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"787","02b24d2308","Osteoporosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"788","3cf8505dca","Osteosarcoma (Bone Cancer)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"789","e0772c8e23","Ostomy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"790","faecfbcba2","Ovarian Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"791","b5fc3c28f7","Ovarian Cysts","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"792","32fdf619f9","Ovarian Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"793","65178a1a0f","Ovarian Insufficiency","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"794","9014bd5e1d","Overactive Bladder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"795","e6751fe1e5","Overactive Thyroid (Hyperthyroidism)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"796","eb28dff05c","Paget's Disease of Bone","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"797","086ad40989","Paget's Disease of Breast","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"798","fd967f129d","Pain","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"799","7cc9702744","Pancreatic Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"800","006f7a866c","Pancreatic Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"801","ca5b3e0a85","Pancreatitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"802","f9043a93fc","Panic Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"803","08b58ed723","Paralysis (Infantile due to Polio)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"804","0E+00","Paralysis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"805","5681e45bc7","Paralytic Ileus (Intestinal Obstruction)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"806","3fbb46e156","Paraplegia (Paralysis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"807","84335e0f7f","Parasitic Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"808","6ecbec4a25","Parathyroid Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"809","23f4701685","Parkinson's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"810","87e8b3070b","Paronychia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"811","6b07443c26","Parotid Gland Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"812","08fa8787ee","Parotid Gland Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"813","bf7dbcde1c","Patella Injury/Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"814","4b1a0e6c42","Pathological Gambling","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"815","0999da4e82","Peanut Allergy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"816","a7e330ccdb","Pelvic Inflammatory Disease (PID)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"817","78f8bf21d9","Pelvic Injury or Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"818","9184417103","Pelvic Pain","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"819","90c5d8b37e","Pemphigus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"820","41b851db1b","Penis Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"821","2aca6e9626","Peptic Ulcer (Duodenal Ulcer)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"822","47a6443b9c","Pericardial Disorder (Lining of Heart Condition)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"823","2a325d58a1","Perimenopause","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"824","5672bc14f2","Periodontal Disease (Gum Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"825","61e1aad768","Peripheral Arterial Disease (Arteriosclerosis of Extremities)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"826","9ab7239dda","Peripheral Nerve Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"827","f6c7919af5","Peripheral Vascular Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"828","f2969957e5","Peritoneal Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"829","655d9f9fd5","Pervasive Developmental Disorder (Autism Spectrum Disorder)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"830","f2032a8c61","Pet Health","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"831","6517e784f2","Phantom Limb","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"832","d572249500","Pharyngitis (Sore Throat)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"833","750334c571","Phenylketonuria (PKU)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"834","fbf6946853","Pheochromocytoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"835","09cee114b6","Phobia disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"836","85f4099933","Pica (Eating Disorders)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"837","2eed636338","Pilonidal Cyst (Tailbone)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"838","41a01bb12d","Pimples (Acne)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"839","85a2b4cb1d","Pinguecula (Eye Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"840","71ef6b25c3","Pinkeye (Conjunctivitis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"841","32aee3b503","Pinworms Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"842","4991b9821e","Pituitary Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"843","a2da1e5dd7","Pituitary Tumors","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"844","14c7abe610","Plague","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"845","d5b51973a1","Plantar Fasciitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"846","4b6e72c6c8","Plantar Warts","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"847","d4762f7743","Plaque/Gum Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"848","1eb97b3a56","Plasma-Cell Myeloma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"849","b5be5a75c6","Plasmacytoma (Multiple Myeloma)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"850","094f8051c4","Plastic (Cosmetic) Surgery","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"851","14e6186669","Platelet Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"852","f788b494bf","Pleural Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"853","270c03e1e9","Pleural Disorders (Lung linning problem)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"854","2f3e4b130c","Pleural Effusion","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"855","d4ae6c0a8f","Pneumococcal Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"856","8793794","Pneumocystis Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"857","32f2a8da5c","Pneumonia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"858","720f78d1ba","Pneumonia (Bronchopneumonia )","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"859","e9a497694c","Pneumoniae (Streptococcus Infections)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"860","6d90c6be26","Pneumonic Plague","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"861","d9b15d2aeb","Pneumothorax (Collapsed Lung)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"862","9cf2fc9452","Poison Ivy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"863","35aa030891","Polio and Post-Polio Syndrome(PPS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"864","794d4622e9","Polio/Post-Polio Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"865","ff2712b0b2","Poliomyelitis (Post-Polio Syndrome)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"866","643ff4cd41","Polychondritis (Joint/cartlidge problem)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"867","36c1b8cb30","Polycystic Kidney Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"868","8bf6318b98","Polycystic Ovary Syndrome (PCOS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"869","64545031dd","Polymyalgia Rheumatica","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"870","268b8ad017","Polymyositis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"871","790c15ec36","Poor Vision","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"872","f240acd01a","Porphyria","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"873","dd26d03959","Post-herpetic Neuralgia (Shingles)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"874","6155a12105","Post-polio Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"875","f7f293108f","Postpartum Depression","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"876","e5de9caef3","Postural Orthostatic Tachycardia Syndrome (POTS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"877","a9d61f61e1","Prader-Willi Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"878","786ad6afb8","Pre-diabetes","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"879","878bbf77b0","Preeclampsia (High Blood Pressure in Pregnancy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"880","88dbf81afe","Pregnancy and AIDS","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"881","ce26b376aa","Pregnancy and Diabetes","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"882","5a4bfcdd18","Pregnancy and Health Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"883","946f3f8c1f","Pregnancy and Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"884","bf8f524b4d","Pregnancy and Substance Abuse","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"885","29c89e47fb","Pregnancy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"886","a645aed454","Pregnant","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"887","77f4a70cdc","Premature Baby (Premie)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"888","c1ce7d86f8","Premature Ejaculation (Men)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"889","c5e8ca70d6","Premature Menopause","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"890","fbd9694b71","Premature Ovarian Failure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"891","92bf88f2c0","Premenstrual Syndrome (PMS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"892","8fc39a06fd","Presbycusis (Hearing Problem/Deafness)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"893","8c43b0f63d","Prescription Drug Abusedisorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"894","1a75ac584e","Pressure Sores","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"895","7328dd32fb","Preterm Labor","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"896","ea5aeebe31","Primary Pulmonary Hypertension","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"897","daedacbea1","Progeria","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"898","89a470fe25","Progressive Supranuclear Palsy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"899","1a8b0233ab","Prolactinoma (Pituitary Tumor)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"900","28ac625798","Prostate Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"901","044008c141","Prostate Disease (Other)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"902","9d3e9a33e4","Prosthetic Limb","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"903","37b694b9c0","Pruritus (Itching)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"904","e4a0469613","Psoriasis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"905","f033dbd284","Psoriatic Arthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"906","b168510a76","Ptosis (Drooping Eyelid)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"907","107afb8744","Puberty","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"908","6d2d3035ad","Pulmonary Embolism","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"909","6ed556599b","Pulmonary Embolism (Blood Clots in the Lung)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"910","f07f99d726","Pulmonary Fibrosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"911","d478391a09","Pulmonary Hypertension","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"912","6d4cae6924","Pulmonary Hypertension (Cor Pulmonale )","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"913","f350c7a2cd","PXE","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"914","09f6b0915f","Q Fever Bacterial Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"915","f7d0be2b44","Quadriplegic","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"916","8fc1e48351","Rabies","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"917","4bd18285af","Rabies","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"918","6aaa64920e","Rashes","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"919","e446049dcf","Raynaud's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"920","00c5a2de7f","Reactive Arthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"921","4471701231","Rectal Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"922","d7b7d80cf4","Rectal Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"923","4bd37cb2f6","Reflex Sympathetic Dystrophy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"924","3a3581a5ef","Reiter's Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"925","2bff36fc52","Renal Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"926","cef5d9fe99","Renal Transplant","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"927","413ab53323","Renal/Kidney Failure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"928","eae9477c7f","Repetitive Motion Injury","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"929","703e6bc8c2","Respiratory Failure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"930","f4999e425a","Respiratory Syncytial Virus (RSV) Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"931","3c6bb5022a","Restless Leg Syndrome (RLS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"932","893abc6b8a","Retinal (eye) Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"933","717936e34a","Retinal Detachment","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"934","48912903b8","Retinal Disorder (e.g. Floaters)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"935","93976d9c15","Rett Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"936","b0a3ea5605","Reye Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"937","22c687fac2","Rh Incompatibility","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"938","23016a75e9","Rh Incompatibility at birth","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"939","585b949caa","Rhabdomyolysis (Muscle Disorder)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"940","daaf8a4e5c","Rhabdomyosarcoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"941","bb1d52e3dd","Rheumatic Fever","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"942","74093ea80f","Rheumatoid Arthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"943","f971d031da","Rickets","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"944","b1a500e1a5","Ringworm (Tinea) Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"945","f1b9bb8f2b","Rocky Mountain Spotted Fever","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"946","f7c6b70d98","Root Canal","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"947","8ac57a82cb","Rosacea","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"948","1a2d98f351","Roseola (Viral Infection)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"949","afd6163ee4","Rotator Cuff Injury","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"950","b215e82f10","Rotavirus Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"951","fb5b12c544","Rubella","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"952","1972634866","Salmonella Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"953","a219ccd5ea","Sarcoidosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"954","d1d6473b06","SARS (Coronavirus Infection)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"955","e6e4988b7f","Scabies","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"956","8017f51762","Scapula Injury of Shoulder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"957","8ae52b7c92","Scarlet Fever","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"958","e19d320109","Scars(Cicatrix)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"959","6c6446c1b8","Sciatica","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"960","722ca3a6d4","SCID","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"961","b2204be8ac","Scleroderma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"962","d0e321ca26","Scoliosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"963","690591cbb4","Seasickness/Motion Sickness","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"964","06b7ab515a","Seasonal Affective Disorder (SAD)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"965","dd7e136cea","Seasonal Allergy (Hay Fever)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"966","1a32e7aff9","Secondhand Smoke","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"967","6d4684a9cf","Seizures","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"968","2d0f9258df","Septic","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"969","d4af29ec2f","Septic Arthritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"970","1077f762ec","Severe Acute Respiratory Syndrome (SARS)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"971","eaaddaa4d6","Severe Combined Immunodeficiency","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"972","ceef8fcf36","Sexual Dysfunction","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"973","d35614916a","Sexual Problems in Men","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"974","f1aa5fb7c2","Sexual Problems in Women","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"975","2235340ac9","Sexually Transmitted Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"976","371d7e3968","Shellfish Allergy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"977","fe6f953a7e","Shingles - Herpes Zoster","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"978","c469c5b932","Shock","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"979","8d300f660d","Shoulder Injuries and Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"980","84b9ead1b0","Shoulder/Rotator Cuff Injury","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"981","de2796b654","Sickle Cell Anemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"982","971452831e","Sinus Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"983","8bf5592c5f","Sinus Infection (Sinusitis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"984","f6de9c75da","Sjogren's Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"985","5c7c03b609","Sjogren's Syndrome (Dry Eye)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"986","ba33abdfd3","Skin Blisters (Bullous Pemphigoid)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"987","6466ebe46a","Skin Cancer (Actinic Keratosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"988","400eadead8","Skin Infection (Necrotizing Fasciitis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"989","e7cacb1782","Skin Infection (Other)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"990","d4737d1780","Skin Pigmentation Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"991","4248776ea9","Skin Rash","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"992","e076c1c506","Skull Fracture","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"993","2cfb1aebd4","Sleep Apnea","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"994","1f30dbd7b1","Sleep Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"995","0042c9adcf","Small Birth Weight","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"996","d945a56338","Small Cell Lung Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"997","45f0fc36c6","Small Intestine Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"998","26ed1fa94e","Small Intestine Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"999","876f81679d","Small Intestine Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1000","d34cccca5b","Smallpox","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1001","a31fb357b0","Smell Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1002","51b4893929","Smoker","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1003","ebdbc2c30d","Snoring","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1004","e0d4e18504","Soft Tissue Sarcoma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1005","4efa1ffc44","Spasmodic Torticollis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1006","c4c334a5f9","Spasticity","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1007","a1ccf3986d","Speech and Communication Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1008","5c18ca5a59","Speech and Language Problems in Children","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1009","003e329c5a","Speech/Communication Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1010","be7c41a1dc","Spider Bites","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1011","10d917a482","Spider Vein/Varicose Veins","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1012","b064680525","Spina Bifida","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1013","43e5f5fa22","Spina Bifida (Open Spine)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1014","c0db5970a9","Spinal Cord Disease(other)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1015","8c5307fbf5","Spinal Cord Injury (other)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1016","22a0a7d5e5","Spinal Muscular Atrophy (SMA)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1017","1.6448364E+10","Spinal Stenosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1018","1a3060789d","Spine Injuries and Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1019","d29a8dab3d","Splenic Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1020","7717480370","Splenomegaly (Enlarged Spleen)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1021","5a76c4aa95","Spondylitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1022","b5fab013e9","Spondylolisthesis Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1023","50cb957870","Stammering/Stuttering","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1024","49401ca425","Steele-Richardson-Olszewski Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1025","d9a97be476","Stein-Leventhal Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1026","0be625be8d","Still's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1027","f537009e3e","Stillbirth","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1028","4794f55df8","Stomach Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1029","a27076be65","Stomach Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1030","5b83c1b0da","Stomach Flu","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1031","8d93a5f0fd","Stomach or Intestinal Bleeding (Gastrointestinal Bleeding)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1032","d89ae81cdc","Stomach Ulcer (Peptic Ulcer)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1033","b8054243a4","Strabismus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1034","d00816bc54","Strep Throat/Streptococcal Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1035","bba9081605","Stress Incontinence/Urinary Incontinence","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1036","c9086d5f8b","Stroke","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1037","ca7020ec3c","Stroke - bleeding on brain type","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1038","3da4961712","Stroke Rehabilitation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1039","b28c9eb030","Stuttering","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1040","6c3357aef4","Stye","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1041","b54b770970","Subarachnoid Hemorrhage (Hemorrhagic Stroke)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1042","a170232aa6","Substance Abuse","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1043","268a207b7c","Sudden Infant Death Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1044","8cc598da17","Suicide Attempted","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1045","a97fb14ca3","Sun Exposure","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1046","cdceca99d6","Sunburn","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1047","f6dbeb2df4","Sunstroke","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1048","b5fbbc8f24","Swallowing Problems (other)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1049","62225021a9","Swimmer's Ear","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1050","d2d3954658","Swine Flu (H1N1) infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1051","c43ab7b75f","Swollen Gland (other)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1052","93ec56affc","Syncope/Fainting","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1053","a01ff853cd","Syndrome X (Cardiac)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1054","aa72472649","Syndrome X (Metabolic)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1055","d4fa8e0994","Syphilis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1056","5af46b4f94","Syringomyelia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1057","541f39a309","Systemic Lupus Erythematosus (SLE)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1058","3020c0a192","Systemic Sclerosis/Scleroderma","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1059","8d82f08471","Tachycardia (racing heart)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1060","f14c346ddd","Tachypnea (Short of breath)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1061","369150452f","Tardive Dyskinesia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1062","3ccd0936ea","Taste and Smell Disorders (Ageusia)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1063","8e98dbd2e2","Taste Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1064","fa893eb5e9","Tay-Sachs Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1065","ee9fe293ed","Teenage Pregnancy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1066","09f411da1f","Temporal Arteritis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1067","5f7696aefe","Temporomandibular Joint Dysfunction (TMJ)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1068","d66931f98e","Tendinitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1069","81fba28566","Tennis Elbow","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1070","7535995bdf","Tension Headache","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1071","a03572fe47","Testicular Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1072","fa7e4a4b28","Testicular Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1073","62a7aaccdb","Tetanus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1074","77e6c48f94","Thalassemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1075","d98cb8cb3e","Thoracic Aortic Aneurysm","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1076","d60f49c124","Thoracic Outlet Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1077","de370e63d1","Throat Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1078","a488ed34d4","Throat Cancer (Oropharyngeal Cancer)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1079","89d5944d78","Throat Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1080","da74578395","Throat Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1081","3209cfc80f","Throat/Esophagus Disorder (e.g. Achalasia)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1082","c760462dbb","Thrombocytopenia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1083","1a6bb5dd61","Thrombophlebitis (Blood Clots)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1084","eafc7143ca","Thrush (Yeast Infections)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1085","f10c497249","Thymus Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1086","989e10731a","Thyroid Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1087","ec92883529","Thyroid Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1088","6bf580eb2d","Thyrotoxicosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1089","6bfafa0e4b","Tic Douleureux (Trigeminal Neuralgia)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1090","d6bb19ba77","Tick Bite (Babesiosis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1091","692b3d79a5","Tickborne Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1092","3fcac42915","Tinea Pedis (Athlete's Foot)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1093","7d56e21657","Tinnitus (ringing in ears)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1094","fb4ad4b6b5","Tongue Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1095","8c3ab66962","Tongue Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1096","6e63ce45b0","Tongue Inflammation/Swelling","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1097","37c518e3b6","Tonsillitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1098","4a386e5ac4","Tooth Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1099","91e5630764","Torticollis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1100","5f7f280507","Tourette Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1101","7b83c788e1","Toxic Shock Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1102","a076e41aa5","Toxoplasmosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1103","3cf153f9c4","Tracheal Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1104","ae32fb9e0f","Tracheostomy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1105","de71a5c9f6","Transient Ischemic Attack (TIA)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1106","71ae338f71","Traumatic Brain Injury (TBI)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1107","3fef4e3440","Treacher-Collins Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1108","82a14a9f16","Tremor","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1109","4785cea73d","Trichomoniasis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1110","9b5f138127","Trigeminal Neuralgia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1111","9f100d9858","Trisomy 21 (Down Syndrome)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1112","74c7b26e90","Tubal Ligation","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1113","c0ce4d8c51","Tuberculosis (TB)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1114","824672ff21","Tuberous Sclerosis (TSC)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1115","dbdc4cc97e","Turner Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1116","5a7687ffdc","Typhoid Fever (Salmonella Infection)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1117","f31a53e113","Ulcer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1118","01871528dc","Ulcerative Colitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1119","051eda62f2","Umbilical Hernia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1120","e6c5a72790","Uncommon Infant and Newborn Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1121","4973453826","Underweight","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1122","fec0d6b5a1","Undescended Testicle","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1123","dc35b42757","Urethral Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1124","e0c1612193","Urinary Bladder Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1125","9b981d8b2b","Urinary Incontinence","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1126","7cde1e2572","Urinary Tract Infection (UTI)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1127","d87064417d","Urine with blood (Hematuria)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1128","d8cb2239d9","Urostomy (Ostomy)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1129","867b0a62c9","Urticaria (Hives)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1130","9cebf1b2d1","Usher Syndrome","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1131","1653fb8302","Uterine bleeding","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1132","4be1b1d47d","Uterine Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1133","a3b1838239","Uterine Cervix Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1134","d70a5f4bb7","Uterine Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1135","dc9b973ee5","Uterine Fibroids (Uterine Leiomyomata)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1136","cc736b3bad","Uterine Prolapse","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1137","0e22b7dc53","Vaginal Bleeding","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1138","96bf79a9b5","Vaginal Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1139","c614524c88","Vaginal Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1140","2cb474f17f","Vaginal Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1141","58a7ef1b4e","Vaginal Yeast Infection","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1142","60a218dbb6","Vaginismus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1143","1efab0ba59","Vaginitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1144","92d476857e","Valley Fever","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1145","33a3314c3d","Valvular Heart Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1146","141fb894f0","Varicose Veins","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1147","b5673f05f4","Vascular Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1148","63c92915d7","Vascular Headache","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1149","2e8a720ba7","Vasculitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1150","4527343fcc","Vasovagal Syncope","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1151","307d5b0e27","Venous Thrombosis (Blood Clots)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1152","374fcac626","Verruca (Warts)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1153","fec075bb7c","Vertigo (Dizziness)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1154","30d3389411","Vestibular Diseases","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1155","4243d39273","Vestibular Schwannoma (Acoustic Neuroma)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1156","a2ac602161","Viral Hepatitis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1157","d8cab1049b","Viral Infections","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1158","e96f882fdf","Vision problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1159","44a3398ddb","Vitiligo","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1160","2a22abe625","Vocal Cord Problems (Voice problems)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1161","3a539cb038","Voice Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1162","a7a4f73ed5","Voicebox Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1163","95ec53401c","Vomiting/Nausea","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1164","b354d36785","Von Hippel-Lindau Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1165","1c2814f094","Von Recklinghausen's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1166","d508609d03","Von Willebrand's Disease","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1167","bbf1b8c072","Vulvar Cancer","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1168","c55055cd94","Vulvar Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1169","d17c005a6c","Vulvodynia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1170","3ce51d54e5","Waldenstrom's Macroglobulinemia","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1171","9e4a638271","Walking Problems","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1172","07502d39f8","Walking/Gait Problem","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1173","cfdb9ee445","Walleye","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1174","74ce502400","Warts","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1175","6290fbb02d","Wegener's Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1176","50a542d5c2","Wegener's Granulomatosis","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1177","de6d9c51d9","West Nile Virus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1178","b9144b1a39","Wheat Allergy","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1179","d033080dc5","Whiplash","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1180","b766c44572","Whooping Cough","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1181","4012183c05","Wilms Tumor","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1182","2b88ddbfa9","Wilson Disease (Copper Storage Disease)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1183","cbb6fa97f8","Windpipe Disorder","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1184","aa22986e46","Wounds and Injuries (other)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1185","65145f5c88","Wrinkles","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1186","8d79f7e918","Wrist Injuries and Disorders","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1187","17ae2fabaa","Yeast Infection (Candidiasis)","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1188","ef555f90ca","Yellow Fever","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
+"1189","793ad07bf2","Zika Virus","0000-00-00 00:00:00","0000-00-00 00:00:00",NULL
